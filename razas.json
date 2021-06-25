@@ -7755,14 +7755,7 @@
       "source": "PHB",
       "page": 26,
       "srd": true,
-      "attribs": [
-        {
-          	"name": "halflingluck_flag",
-            "current": "1",
-            "max": "",
-            "id": "-Md3iXTDNEdVo2RYeR4W"
-        }
-      ],
+      "halflingluck":1,
       "size": [
         "S"
       ],
