@@ -6063,13 +6063,8 @@
       },
       "languageProficiencies": [
         {
-          "mediano": true
-        }
-      ],
-      "languageProficiencies": [
-        {
           "común": true,
-          
+          "mediano": true
         }
       ],
       "soundClip": {
