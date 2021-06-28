@@ -1,0 +1,261 @@
+{
+    "_meta":
+    {
+        "internalCopies":
+        [
+            "race"
+        ]
+    },
+    "race":
+    [
+        {
+            "name": "Elfo de la Noche",
+            "source": "CLassic",
+            "page": 282,
+            "size":
+            [
+                "M"
+            ],
+            "speed":
+            {
+                "fly": 50
+            },
+            "ability":
+            [
+                {
+                    "dex": 18,
+                    "con": 12,
+                    "wis": 13,
+                    "str": 10, 
+                    "int": 13,
+                    "cha": 14
+                }
+            ],
+            "traitTags":
+            [
+                "Raza de la alianza"
+            ],
+            "resist":
+            [
+                "Naturaleza"
+            ],
+            "languageProficiencies":
+            [
+                {
+                    "común": true,
+                    "élfico": true
+                }
+            ],
+            "entries":
+            [
+                {
+                    "name": "Resistencia a la Naturaleza",
+                    "entries":
+                    [
+                        "Tienes resistencia al daño de naturaleza."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Presura",
+                    "entries":
+                    [
+                        "Incrementa tu CA en 1 punto."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Fusión de las sombras",
+                    "entries":
+                    [
+                        "Siempre que no tengas un enemigo a 30 pies o menos de ti, puedes entrar en sigilo en el lugar. Este efecto dura hasta que ataque o te muevas."
+                    ],
+                    "type": "entries"
+                },
+                {
+                    "name": "Fuego Fauto",
+                    "entries":
+                    [
+                        "Puedes sumar tu proficiencia a tus tiradas de salvación  contra la muerte."
+                    ],
+                    "type": "entries"
+                }
+            ]
+        },
+        {
+            "name": "Enano de Forjaz",
+            "source": "Classic",
+            "page": 286,
+            "size":
+            [
+                "M"
+            ],
+            "speed": 25,
+            "ability":
+            [
+                {
+                    "dex": 9,
+                    "con": 16,
+                    "wis": 12,
+                    "str": 15, 
+                    "int": 12,
+                    "cha": 12
+                }
+            ],
+            "darkvision": 60,
+            "resist":
+            [
+                "Escarcha"
+            ],
+            "languageProficiencies":
+            [
+                {
+                    "común": true,
+                    "enánico": true
+                }
+            ],
+            "entries":
+            [
+                {
+                    "name": "Resistencia a la escarcha.",
+                    "type": "entries",
+                    "entries":
+                    [
+                        "Tienes resistencia al daño de escarcha."
+                    ]
+                },
+                {
+                    "name": "Especialización en armas de fuego",
+                    "type": "entries",
+                    "entries":
+                    [
+                        "Tus ataques a distancia con armas de fuego causarán críticos con un resultado de 19 o 20 en la tirada."
+                    ]
+                },
+                {
+                    "name": "Forma de piedra",
+                    "entries":
+                    [
+                        "Puedes usar tu *Acción Adicional* para eliminar todos los estados de venenos, enfermedades y sangrados; y reducir todo el daño recibido tantos puntos golpe como tu nivel + tu modificador de aguante hasta el final de tu próximo turno. Una vez utilizada tu forma de piedra, no podrás volver a emplearla hasta que finalices un descanso largo."
+                    ],
+                    "type": "entries"
+                }
+            ]
+        },
+        {
+            "name": "Gnomo",
+            "source": "Classic",
+            "page": 104,
+            "size":
+            [
+                "M"
+            ],
+            "speed": 25,
+            "ability":
+            [
+                {
+                    "dex": 16,
+                    "con": 12,
+                    "wis": 13,
+                    "str": 8, 
+                    "int": 17,
+                    "cha": 14
+                }
+            ],
+            "darkvision": 60,
+            "resist":
+            [
+                "Arcano"
+            ],
+            "languageProficiencies":
+            [
+                {
+                    "común": true,
+                    "gnómico": true
+                }
+            ],
+            "entries":
+            [
+                {
+                    "name": "Resistencia a la arcano.",
+                    "type": "entries",
+                    "entries":
+                    [
+                        "Tienes resistencia al daño arcano."
+                    ]
+                },
+                {
+                    "name": "Artista del escape",
+                    "type": "entries",
+                    "entries":
+                    [
+                        "Durante tu turno puedes usar tu *Acción Adicional* para liberarte de cualquier efecto inmovilizador o de ralentización de movimiento."
+                    ]
+                },
+                {
+                    "name": "Mente expansiva",
+                    "entries":
+                    [
+                        "Incrementa en 1 tus espacios de conjuros."
+                    ],
+                    "type": "entries"
+                }
+            ]
+        },
+        {
+            "name": "Humano de Ventormenta",
+            "source": "Classic",
+            "page": 104,
+            "size":
+            [
+                "M"
+            ],
+            "speed": 30,
+            "ability":
+            [
+                {
+                    "dex": 13,
+                    "con": 13,
+                    "wis": 14,
+                    "str": 13, 
+                    "int": 13,
+                    "cha": 17
+                }
+            ],
+            "languageProficiencies":
+            [
+                {
+                    "común": true
+                }
+            ],
+            "entries":
+            [
+                {
+                    "name": "Diplomacia.",
+                    "type": "entries",
+                    "entries":
+                    [
+                        "Tienes ventaja en las tiradas de *Persuación (Carsima)*."
+                    ]
+                },
+                {
+                    "name": "Especialización con mazas",
+                    "type": "entries",
+                    "entries":
+                    [
+                        "Durante tu turno puedes usar tu *Acción Adicional* para liberarte de cualquier efecto inmovilizador o de ralentización de movimiento."
+                    ]
+                },
+                {
+                    "name": "Mente expansiva",
+                    "entries":
+                    [
+                        "Incrementa en 1 tus espacios de conjuros."
+                    ],
+                    "type": "entries"
+                }
+            ]
+        }
+        
+    ]
+}
