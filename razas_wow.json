@@ -16,10 +16,7 @@
             [
                 "M"
             ],
-            "speed":
-            {
-                "fly": 50
-            },
+            "speed":30,
             "ability":
             [
                 {
