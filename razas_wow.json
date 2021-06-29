@@ -114,22 +114,6 @@
             "entries":
             [
                 {
-                    "name": "Resistencia a la escarcha.",
-                    "type": "entries",
-                    "entries":
-                    [
-                        "Tienes resistencia al daño de escarcha."
-                    ]
-                },
-                {
-                    "name": "Especialización en armas de fuego",
-                    "type": "entries",
-                    "entries":
-                    [
-                        "Tus ataques a distancia con armas de fuego causarán críticos con un resultado de 19 o 20 en la tirada."
-                    ]
-                },
-                {
                     "name": "Forma de piedra",
                     "entries":
                     [
@@ -144,121 +128,88 @@
                 "page": 69,
                 "ability": [
                     {
-                        "dex": 9,
-                        "con": 16,
+                        "dex": 11,
+                        "con": 15,
                         "wis": 12,
-                        "str": 15, 
-                        "int": 12,
-                        "cha": 12
-                    }
-                ],
-                "traitTags": 
-                [
-                    "Tool Proficiency"
-                ],
-                "skillProficiencies": 
-                [
-                    {
-                      "choose": {
-                        "from": [
-                          "athletics",
-                          "acrobatics",
-                          "sleight of hand",
-                          "stealth",
-                          "arcana",
-                          "history",
-                          "investigation",
-                          "nature",
-                          "religion",
-                          "animal handling",
-                          "insight",
-                          "medicine",
-                          "perception",
-                          "survival",
-                          "deception",
-                          "intimidation",
-                          "performance",
-                          "persuasion"
-                        ]
-                      }
+                        "str": 14,
+                        "int": 13,
+                        "cha": 11
                     }
                 ],
                 "entries": 
-                [
-                    {
-                        "type": "entries",
-                        "name": "Specialized Design",
-                        "entries": [
-                            "You gain one skill proficiency of your choice, one {@book tool|phb|5|tools} proficiency of your choice, and fluency in one language of your choice."
-                        ]
-                    },
-                    {
-                        "type": "entries",
-                        "name": "Integrated Tool",
-                        "entries": [
-                            "Choose one tool you're proficient with. This tool is integrated into your body, and you double your proficiency bonus for any ability checks you make with it. You must have your hands free to use this integrated tool."
-                        ]
-                    }
+                [{
+                    "name": "Resistencia a la escarcha.",
+                    "type": "entries",
+                    "entries":
+                    [
+                        "Tienes resistencia al daño de escarcha."
+                    ]
+                },
+                {
+                    "name": "Especialización en armas de fuego",
+                    "type": "entries",
+                    "entries":
+                    [
+                        "Tus ataques a distancia con armas de fuego causarán críticos con un resultado de 19 o 20 en la tirada."
+                    ]
+                }
                 ]
             },
             {
-                "name": "Hierronegro",
+                "name": "Hierro Negro",
+                "page": 69,
+                "ability": 
+                [{
+                    "dex": 8,
+                    "con": 14,
+                    "wis": 15,
+                    "str": 13,
+                    "int": 15,
+                    "cha": 11
+                }],
+                "entries": 
+                [{
+                    "type": "entries",
+                    "name": "Explorador de mazmorras",
+                    "entries": [
+                        "Tu velocidad se incrementa 5 pies cuando te mueves en interiores."
+                    ]
+                },
+                {
+                    "type": "entries",
+                    "name": "Forjado en llamas",
+                    "entries": [
+                        "Tienes resistencia al daño de fuego."
+                    ]
+                }] 
+            },
+            {
+                "name": "Martillo Salvaje",
                 "page": 69,
                 "ability": [
                     {
-                        "dex": 9,
+                        "dex": 8,
                         "con": 16,
                         "wis": 12,
-                        "str": 15, 
-                        "int": 12,
-                        "cha": 12
-                    }
-                ],
-                "traitTags": 
-                [
-                    "Tool Proficiency"
-                ],
-                "skillProficiencies": 
-                [
-                    {
-                      "choose": {
-                        "from": [
-                          "athletics",
-                          "acrobatics",
-                          "sleight of hand",
-                          "stealth",
-                          "arcana",
-                          "history",
-                          "investigation",
-                          "nature",
-                          "religion",
-                          "animal handling",
-                          "insight",
-                          "medicine",
-                          "perception",
-                          "survival",
-                          "deception",
-                          "intimidation",
-                          "performance",
-                          "persuasion"
-                        ]
-                      }
+                        "str": 16, 
+                        "int": 11,
+                        "cha": 13
                     }
                 ],
                 "entries": 
                 [
                     {
                         "type": "entries",
-                        "name": "Specialized Design",
+                        "name": "Especialización con mazas.",
                         "entries": [
-                            "You gain one skill proficiency of your choice, one {@book tool|phb|5|tools} proficiency of your choice, and fluency in one language of your choice."
+                            "Eres competente con Hachas de guerra, Hachas de mano, Martillos de guerra y Martillos ligeros."
                         ]
                     },
                     {
                         "type": "entries",
-                        "name": "Integrated Tool",
+                        "name": "invocar Grifo",
                         "entries": [
-                            "Choose one tool you're proficient with. This tool is integrated into your body, and you double your proficiency bonus for any ability checks you make with it. You must have your hands free to use this integrated tool."
+                            "Elige una criatura que puedas ver y lo señalas para que un Grifo baje del cielo y lo moleste. Hasta el final de tu próximo turno, los ataques contra la criatura ganan ventaja. Una vez usado este Racial, no podrás volver a usarlo hasta que finalices un Descanso Largo"
                         ]
                     }
                 ] 
