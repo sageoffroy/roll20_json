@@ -117,7 +117,7 @@
                     "name": "Forma de piedra",
                     "entries":
                     [
-                        "Puedes usar tu *Acción Adicional* para eliminar todos los estados de venenos, enfermedades y sangrados; y reducir todo el daño recibido tantos puntos golpe como tu nivel + tu modificador de aguante hasta el final de tu próximo turno. Una vez utilizada tu forma de piedra, no podrás volver a emplearla hasta que finalices un descanso largo."
+                        "Puedes usar tu Acción Adicional para eliminar todos los estados de venenos, enfermedades y sangrados; y reducir todo el daño recibido tantos puntos golpe como tu nivel + tu modificador de aguante hasta el final de tu próximo turno. Una vez utilizada tu forma de piedra, no podrás volver a emplearla hasta que finalices un descanso largo."
                     ],
                     "type": "entries"
                 }
@@ -209,7 +209,7 @@
                         "type": "entries",
                         "name": "invocar Grifo",
                         "entries": [
-                            "Elige una criatura que puedas ver y lo señalas para que un Grifo baje del cielo y lo moleste. Hasta el final de tu próximo turno, los ataques contra la criatura ganan ventaja. Una vez usado este Racial, no podrás volver a usarlo hasta que finalices un Descanso Largo"
+                            "Elige una criatura que puedas ver y la señalas para que un Grifo baje del cielo a molestarla. Hasta el final de tu próximo turno, los ataques contra la criatura ganan ventaja. Una vez usado este Racial, no podrás volver a usarlo hasta que finalices un Descanso Largo"
                         ]
                     }
                 ] 
