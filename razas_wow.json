@@ -80,7 +80,7 @@
             ]
         },
         {
-            "name": "Enano de Forjaz",
+            "name": "Enano",
             "source": "Wow Classic",
             "page": 286,
             "size":
@@ -137,7 +137,132 @@
                     ],
                     "type": "entries"
                 }
-            ]
+            ],
+            "subraces": 
+            [{
+                "name": "Barbabronce",
+                "page": 69,
+                "ability": [
+                    {
+                        "dex": 9,
+                        "con": 16,
+                        "wis": 12,
+                        "str": 15, 
+                        "int": 12,
+                        "cha": 12
+                    }
+                ],
+                "traitTags": 
+                [
+                    "Tool Proficiency"
+                ],
+                "skillProficiencies": 
+                [
+                    {
+                      "choose": {
+                        "from": [
+                          "athletics",
+                          "acrobatics",
+                          "sleight of hand",
+                          "stealth",
+                          "arcana",
+                          "history",
+                          "investigation",
+                          "nature",
+                          "religion",
+                          "animal handling",
+                          "insight",
+                          "medicine",
+                          "perception",
+                          "survival",
+                          "deception",
+                          "intimidation",
+                          "performance",
+                          "persuasion"
+                        ]
+                      }
+                    }
+                ],
+                "entries": 
+                [
+                    {
+                        "type": "entries",
+                        "name": "Specialized Design",
+                        "entries": [
+                            "You gain one skill proficiency of your choice, one {@book tool|phb|5|tools} proficiency of your choice, and fluency in one language of your choice."
+                        ]
+                    },
+                    {
+                        "type": "entries",
+                        "name": "Integrated Tool",
+                        "entries": [
+                            "Choose one tool you're proficient with. This tool is integrated into your body, and you double your proficiency bonus for any ability checks you make with it. You must have your hands free to use this integrated tool."
+                        ]
+                    },
+                ]
+            },
+            {
+                "name": "Hierronegro",
+                "page": 69,
+                "ability": [
+                    {
+                        "dex": 9,
+                        "con": 16,
+                        "wis": 12,
+                        "str": 15, 
+                        "int": 12,
+                        "cha": 12
+                    }
+                ],
+                "traitTags": 
+                [
+                    "Tool Proficiency"
+                ],
+                "skillProficiencies": 
+                [
+                    {
+                      "choose": {
+                        "from": [
+                          "athletics",
+                          "acrobatics",
+                          "sleight of hand",
+                          "stealth",
+                          "arcana",
+                          "history",
+                          "investigation",
+                          "nature",
+                          "religion",
+                          "animal handling",
+                          "insight",
+                          "medicine",
+                          "perception",
+                          "survival",
+                          "deception",
+                          "intimidation",
+                          "performance",
+                          "persuasion"
+                        ]
+                      }
+                    }
+                ],
+                "entries": 
+                [
+                    {
+                        "type": "entries",
+                        "name": "Specialized Design",
+                        "entries": [
+                            "You gain one skill proficiency of your choice, one {@book tool|phb|5|tools} proficiency of your choice, and fluency in one language of your choice."
+                        ]
+                    },
+                    {
+                        "type": "entries",
+                        "name": "Integrated Tool",
+                        "entries": [
+                            "Choose one tool you're proficient with. This tool is integrated into your body, and you double your proficiency bonus for any ability checks you make with it. You must have your hands free to use this integrated tool."
+                        ]
+                    },
+                ] 
+            }]
         },
         {
             "name": "Gnomo",
